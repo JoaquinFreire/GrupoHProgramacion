@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core.Application.ComandQueryBus",
+    "\\Core.Application.ComandQueryBus\\Buses",
+    "\\Core.Application.Mapping",
+    "\\Core.Domain\\bin",
+    "\\Core.Domain\\Entities",
+    "\\ESCMB.API",
+    "\\ESCMB.API\\Controllers",
+    "\\ESCMB.Infraestructure\\Repositories",
+    "\\ESCMB.Infraestructure\\Repositories\\Sql"
+  ],
+  "SelectedNode": "\\Core.Application.ComandQueryBus\\Core.Application.ComandQueryBus.csproj",
+  "PreviewInSolutionExplorer": false
+}

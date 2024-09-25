@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yloz7TDGjVQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ernes\\Documents\\UNC_2024\\Programación Aplicada 2\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\Core.Domain\\Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ernes\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

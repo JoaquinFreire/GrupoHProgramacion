@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB572FC-F0CA-4A1B-B172-B8C34E49A79A}|ESCMB.Application\\ESCMB.Application.csproj|c:\\users\\ryzen 5\\desktop\\hybridarchitecture.net-main\\escmb.hybriddddarchitecture\\escmb.application\\repositories\\sql\\icustomerentitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB572FC-F0CA-4A1B-B172-B8C34E49A79A}|ESCMB.Application\\ESCMB.Application.csproj|solutionrelative:escmb.application\\repositories\\sql\\icustomerentitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA3EB2-2143-4AA5-916E-519DC2B7C8AD}|ESCMB.Domain\\ESCMB.Domain.csproj|c:\\users\\ryzen 5\\desktop\\hybridarchitecture.net-main\\escmb.hybriddddarchitecture\\escmb.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AA3EB2-2143-4AA5-916E-519DC2B7C8AD}|ESCMB.Domain\\ESCMB.Domain.csproj|solutionrelative:escmb.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA3EB2-2143-4AA5-916E-519DC2B7C8AD}|ESCMB.Domain\\ESCMB.Domain.csproj|c:\\users\\ryzen 5\\desktop\\hybridarchitecture.net-main\\escmb.hybriddddarchitecture\\escmb.domain\\validators\\dummyentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AA3EB2-2143-4AA5-916E-519DC2B7C8AD}|ESCMB.Domain\\ESCMB.Domain.csproj|solutionrelative:escmb.domain\\validators\\dummyentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA3EB2-2143-4AA5-916E-519DC2B7C8AD}|ESCMB.Domain\\ESCMB.Domain.csproj|c:\\users\\ryzen 5\\desktop\\hybridarchitecture.net-main\\escmb.hybriddddarchitecture\\escmb.domain\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AA3EB2-2143-4AA5-916E-519DC2B7C8AD}|ESCMB.Domain\\ESCMB.Domain.csproj|solutionrelative:escmb.domain\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0FA063-9AE1-49E9-B1BE-6F26BF167102}|ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj|c:\\users\\ryzen 5\\desktop\\hybridarchitecture.net-main\\escmb.hybriddddarchitecture\\escmb.infraestructure\\repositories\\sql\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0FA063-9AE1-49E9-B1BE-6F26BF167102}|ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj|solutionrelative:escmb.infraestructure\\repositories\\sql\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7629E42A-694E-410D-810A-4523DA147CAC}|ESCMB.API\\ESCMB.API.csproj|c:\\users\\ryzen 5\\desktop\\hybridarchitecture.net-main\\escmb.hybriddddarchitecture\\escmb.api\\controllers\\customerentitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7629E42A-694E-410D-810A-4523DA147CAC}|ESCMB.API\\ESCMB.API.csproj|solutionrelative:escmb.api\\controllers\\customerentitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB572FC-F0CA-4A1B-B172-B8C34E49A79A}|ESCMB.Application\\ESCMB.Application.csproj|c:\\users\\ryzen 5\\desktop\\hybridarchitecture.net-main\\escmb.hybriddddarchitecture\\escmb.application\\usecases\\dummyentity\\commands\\createdummyentity\\createdummyentityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB572FC-F0CA-4A1B-B172-B8C34E49A79A}|ESCMB.Application\\ESCMB.Application.csproj|solutionrelative:escmb.application\\usecases\\dummyentity\\commands\\createdummyentity\\createdummyentityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB572FC-F0CA-4A1B-B172-B8C34E49A79A}|ESCMB.Application\\ESCMB.Application.csproj|c:\\users\\ryzen 5\\desktop\\hybridarchitecture.net-main\\escmb.hybriddddarchitecture\\escmb.application\\escmb.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFB572FC-F0CA-4A1B-B172-B8C34E49A79A}|ESCMB.Application\\ESCMB.Application.csproj|solutionrelative:escmb.application\\escmb.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICustomerEntityController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\Repositories\\Sql\\ICustomerEntityController.cs",
+              "RelativeDocumentMoniker": "ESCMB.Application\\Repositories\\Sql\\ICustomerEntityController.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\Repositories\\Sql\\ICustomerEntityController.cs",
+              "RelativeToolTip": "ESCMB.Application\\Repositories\\Sql\\ICustomerEntityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:34:48.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\Repositories\\Sql\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ESCMB.Infraestructure\\Repositories\\Sql\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\Repositories\\Sql\\CustomerRepository.cs",
+              "RelativeToolTip": "ESCMB.Infraestructure\\Repositories\\Sql\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:33:28.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerEntityController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\Controllers\\CustomerEntityController.cs",
+              "RelativeDocumentMoniker": "ESCMB.API\\Controllers\\CustomerEntityController.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\Controllers\\CustomerEntityController.cs",
+              "RelativeToolTip": "ESCMB.API\\Controllers\\CustomerEntityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:32:18.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ESCMB.Application",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj",
+              "RelativeDocumentMoniker": "ESCMB.Application\\ESCMB.Application.csproj",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj",
+              "RelativeToolTip": "ESCMB.Application\\ESCMB.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T22:25:58.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateDummyEntityHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\UseCases\\DummyEntity\\Commands\\CreateDummyEntity\\CreateDummyEntityHandler.cs",
+              "RelativeDocumentMoniker": "ESCMB.Application\\UseCases\\DummyEntity\\Commands\\CreateDummyEntity\\CreateDummyEntityHandler.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\UseCases\\DummyEntity\\Commands\\CreateDummyEntity\\CreateDummyEntityHandler.cs",
+              "RelativeToolTip": "ESCMB.Application\\UseCases\\DummyEntity\\Commands\\CreateDummyEntity\\CreateDummyEntityHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:27:10.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Validators\\CustomerValidator.cs",
+              "RelativeDocumentMoniker": "ESCMB.Domain\\Validators\\CustomerValidator.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Validators\\CustomerValidator.cs",
+              "RelativeToolTip": "ESCMB.Domain\\Validators\\CustomerValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:19:47.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "ESCMB.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "ESCMB.Domain\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:11:29.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DummyEntityValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Validators\\DummyEntityValidator.cs",
+              "RelativeDocumentMoniker": "ESCMB.Domain\\Validators\\DummyEntityValidator.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Desktop\\HybridArchitecture.NET-main\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Validators\\DummyEntityValidator.cs",
+              "RelativeToolTip": "ESCMB.Domain\\Validators\\DummyEntityValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "ESCMB.Domain\\Validators",
+              "WhenOpened": "2024-09-25T22:08:52.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
